@@ -1,0 +1,9 @@
+weaviate-client
+langchain
+python-dotenv
+langchain-community
+bitsandbytes
+transformers
+accelerate
+pypdf
+
